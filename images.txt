@@ -1,1 +1,2 @@
 nginx:latest
+debian:11-slim
