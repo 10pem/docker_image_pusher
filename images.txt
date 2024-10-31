@@ -1,3 +1,4 @@
 nginx:latest
 debian:11-slim
 mlabbe/iperf3:latest
+python:3.11.10-alpine3.20
